@@ -8,6 +8,7 @@ This repo makes use of github actions to create javadocs from the java files at 
 
 You can view the defined workflow [right here!](./.github/workflows/main.yml)
 - Just get a JDK
+- Upload your code 👨‍💻
 - Run Javadoc instructions
 - Deploy! 🚀 
 
